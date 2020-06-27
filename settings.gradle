@@ -1,0 +1,4 @@
+include ':cloudpossdk-1.5.0.2'
+include ':cloudpossdk'
+include ':app'
+rootProject.name = "POSANDTST"

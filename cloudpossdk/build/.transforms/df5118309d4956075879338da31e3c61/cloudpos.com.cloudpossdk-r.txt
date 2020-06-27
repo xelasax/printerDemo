@@ -1,0 +1,2 @@
+cloudpos.com.cloudpossdk
+string app_name
